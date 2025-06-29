@@ -104,3 +104,29 @@ Wireframes include foundational components that define how a product is structur
 ---
 
 These elements ensure that the final product is both usable and visually intuitive.
+
+---
+
+### Types of Wireframes
+**Low-Fidelity Wireframes**
+**Definition**: Simple sketches or basic digital layouts that focus on structure and placement of elements. They are quick to create and often lack detailed design elements like colors or typography.
+When to Use:
+
+Early stages of the design process.
+
+Brainstorming sessions to quickly iterate ideas.
+
+When the focus is on functionality and layout rather than visual appeal.
+
+**High-Fidelity Wireframes**
+**Definition:** More detailed and refined wireframes that closely resemble the final product. They may include colors, typography, and interactive elements.
+When to Use:
+
+Later stages of the design process.
+
+When presenting to stakeholders for feedback.
+
+Before moving into the final design or development phase.
+
+**Example Analysis**
+The wireframe at [View High-Fidelity Wireframe on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a **high-fidelity wireframe**. It includes detailed UI elements, placeholder content, and a structured layout, making it closer to the final design.
